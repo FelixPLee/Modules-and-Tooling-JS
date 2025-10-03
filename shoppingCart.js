@@ -1,6 +1,12 @@
 //Exporting module
 console.log('Exporting module')
 
+//Blocking code
+// console.log('start fetching')
+// await fetch("https://jsonplaceholder.typicode.com/users")
+// console.log('finishing fetching')
+
+
 const shippingCoast =10
 export const cart =[]
 

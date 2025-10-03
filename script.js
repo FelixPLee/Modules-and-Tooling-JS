@@ -21,3 +21,27 @@ add('pizza', 1)
 //live connection 
 console.log(cart)
 //logs all the itens added
+
+
+//TOP LEVEL await only work in modules
+
+// const res = await fetch("https://jsonplaceholder.typicode.com/posts")
+// const data = await res.json()
+// console.log(data)
+
+//Block module execution (be careful)
+//With grate power comes great responsibility 
+
+const getLastPost = async function() {
+const res = await fetch("https://jsonplaceholder.typicode.com/posts")
+const data = await res.json()
+console.log(data)
+
+return {title: data.at(-1).title, text: data.at(-1).body}
+}
+//not practical
+//const LastPost = getLastPost()
+//LastPost.then(last => console.log(last))
+
+const getLast2 = await getLastPost()
+console.log(getLast2)
