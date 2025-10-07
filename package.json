@@ -1,0 +1,23 @@
+{
+  "name": "modules-and-tooling-js",
+  "version": "1.0.0",
+  "description": "test, and learn experience",
+  "main": "clean.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelixPLee/Modules-and-Tooling-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelixPLee/Modules-and-Tooling-JS/issues"
+  },
+  "homepage": "https://github.com/FelixPLee/Modules-and-Tooling-JS#readme",
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "lodash-es": "^4.17.21"
+  }
+}
