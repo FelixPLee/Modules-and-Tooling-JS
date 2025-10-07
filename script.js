@@ -1,4 +1,7 @@
 //importing module
+
+//experimenting with modules part 1
+/*
 console.log("importing module")
 //import {addToCart, totalPrice as price, totalQuantity as tq} from './shoppingCart.js'
 // addToCart('egg', 12)
@@ -45,3 +48,38 @@ return {title: data.at(-1).title, text: data.at(-1).body}
 
 const getLast2 = await getLastPost()
 console.log(getLast2)
+*/
+
+/*
+// the module pattern
+//closures
+// birth place
+const shoppingCart2 = (function() {
+    const cart = []
+    const shippingCoast = 10
+    const totalPrice = 237
+    const totalQuantity =23
+
+    const addToCart = function(product,quantity) {
+        cart.push({product, quantity})
+        console.log(`${quantity} ${product} added to cart`)
+    }
+
+    const orderStock = function(product,quantity) {
+    console.log(`${quantity} ${product} ordered from supplier`)
+}
+
+return{
+    addToCart,
+    cart,
+    totalPrice,
+    totalQuantity,
+}
+})()
+
+shoppingCart2.addToCart('banana', 3)
+console.log(shoppingCart2.cart)
+//can't
+console.log(shoppingCart2.shippingCoast)
+
+*/
