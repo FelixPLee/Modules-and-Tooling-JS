@@ -83,3 +83,16 @@ console.log(shoppingCart2.cart)
 console.log(shoppingCart2.shippingCoast)
 
 */
+
+// // node js
+// //exort in commonjs
+// export.addToCart = function(product,quantity) {
+//         cart.push({product, quantity})
+//         console.log(`${quantity} ${product} added to cart`)
+//     }
+
+//     const orderStock = function(product,quantity) {
+//     console.log(`${quantity} ${product} ordered from supplier`)
+// }
+// // import
+// const {addToCart} = require(`./shoppingCart.js`)
