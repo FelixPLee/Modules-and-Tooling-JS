@@ -117,3 +117,24 @@ console.log(stateClone)
 if(module.hot) {
     module.hot.accept
 }
+
+
+class Person {
+    #greeting = 'hey'
+    constructor(name) {
+        this.name = name
+        console.log(`${this.#greeting}, ${this.name}`)
+    }
+}
+const felix = new Person('Felix')
+
+console.log('Felix' ?? null)
+
+console.log(cart.find(el.quantity >= 2))
+Promise.resolve(`Teste`).then(function (x) {return console.log(x)})
+
+
+// manual polyfilling 
+//import 'corejs/stable/array/find'
+
+import 'regenerator-runtime/runtime'

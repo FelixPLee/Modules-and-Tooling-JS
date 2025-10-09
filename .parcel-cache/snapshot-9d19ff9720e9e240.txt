@@ -1,4 +1,4 @@
-4181
+4183
 160C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\node_modules\lodash-es\curry.js134044052905896354 0
 171C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\node_modules\lodash-es\_baseSortedIndex.js134044052874439141 0
 162C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\node_modules\lodash-es\toUpper.js134044052940345958 0
@@ -48,7 +48,7 @@
 168C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\node_modules\lodash-es\_nativeKeysIn.js134044052894501453 0
 161C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\node_modules\lodash-es\number.js134044052924973481 0
 173C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\node_modules\@parcel\workers\src\cpuCount.js134043981754784778 0
-133C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\dist134044114756540833 1
+133C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\dist134045118220913805 1
 165C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\node_modules\semver\classes\index.js134043981755880677 0
 190C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\node_modules\caniuse-lite\data\features\css-matches-pseudo.js134043981780969466 0
 166C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\node_modules\semver\classes\semver.js134043981762447229 0
@@ -74,7 +74,7 @@
 156C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\node_modules\supports-color134043981743103474 1
 166C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\node_modules\lodash-es\_createWrap.js134044052881180158 0
 189C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\node_modules\@swc\helpers\src\_class_private_method_init.mjs134043981788156554 0
-138C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\script.js134044113397737030 0
+138C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\script.js134045118193197118 0
 192C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\node_modules\@parcel\error-overlay\src\listenToRuntimeErrors.js134043981756140680 0
 175C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\node_modules\@parcel\core\src\public\Target.js134043981778089186 0
 196C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\node_modules\caniuse-lite\data\features\input-autocomplete-onoff.js134043981797067769 0
@@ -3143,6 +3143,7 @@
 163C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\node_modules\browserslist\index.js134043981744535461 0
 162C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\node_modules\browserslist\node.js134043981746040899 0
 167C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\node_modules\browserslist\package.json134043981748747647 0
+172C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\dist\Modules-and-Tooling-JS.8d90e49c.js.map134044114914247379 0
 163C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\node_modules\browserslist\parse.js134043981747512463 0
 164C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\node_modules\browserslist\README.md134043981749907971 0
 186C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\node_modules\@parcel\core\test\fixtures\duplicate-targets134043981781839115 1
@@ -4177,6 +4178,7 @@
 153C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\node_modules\.bin\semver134043981824325037 0
 157C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\node_modules\.bin\semver.cmd134043981824325037 0
 173C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\node_modules\.bin\update-browserslist-db.ps1134043981824537998 0
-144C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\dist\index.html134044114755521552 0
-168C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\dist\Modules-and-Tooling-JS.3c14d121.js134044114756073378 0
-172C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\dist\Modules-and-Tooling-JS.3c14d121.js.map134044114756400816 0
+144C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\dist\index.html134044114911843288 0
+168C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\dist\Modules-and-Tooling-JS.3c14d121.js134045118220512408 0
+172C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\dist\Modules-and-Tooling-JS.3c14d121.js.map134045118220772492 0
+168C:\Users\10089790\Desktop\MetrologiaIlegal\complete-javascript-course-master\17-Modern-JS-Modules-Tooling\Modules-and-Tooling-JS\dist\Modules-and-Tooling-JS.8d90e49c.js134044114911863279 0
