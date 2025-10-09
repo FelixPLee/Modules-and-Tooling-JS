@@ -1,7 +1,7 @@
 //importing module
 
 //experimenting with modules part 1
-/*
+
 console.log("importing module")
 //import {addToCart, totalPrice as price, totalQuantity as tq} from './shoppingCart.js'
 // addToCart('egg', 12)
@@ -34,7 +34,7 @@ console.log(cart)
 
 //Block module execution (be careful)
 //With grate power comes great responsibility 
-
+/*
 const getLastPost = async function() {
 const res = await fetch("https://jsonplaceholder.typicode.com/posts")
 const data = await res.json()
@@ -97,8 +97,8 @@ console.log(shoppingCart2.shippingCoast)
 // // import
 // const {addToCart} = require(`./shoppingCart.js`)
 
-import cloneDeep from`./node_modules/lodash-es/cloneDeep.js`
-
+ //import cloneDeep from './node_modules/lodash-es/cloneDeep.js'
+import cloneDeep from 'lodash-es'
 const state = {
     cart: [
         {product: `bread`, quantity: 5},
@@ -110,6 +110,10 @@ const state = {
 const stateClone = Object.assign({}, state)
 const stateDeepCLone = cloneDeep(state)
 state.user.loggedIn = false
+
 console.log(stateDeepCLone)
 console.log(stateClone)
 
+if(module.hot) {
+    module.hot.accept
+}
